@@ -12,8 +12,8 @@ opencv-python
 Ctypes 
 
 ## Screenshots
-![alt text](screenshots/Screenshot1.PNG "")
-![alt text](screenshots/Screenshot2.PNG "")
+![alt text](screenshots/Screenshot1.PNG "s")
+![alt text](screenshots/Screenshot2.PNG "xzc")
 
 
 
